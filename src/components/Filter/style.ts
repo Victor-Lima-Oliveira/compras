@@ -8,6 +8,7 @@ export const styles = StyleSheet.create({
   },
   title: {
     fontSize: 12,
-    fontWeight: 600
+    fontWeight: 800,
+    color: "#000",
   },
 });
